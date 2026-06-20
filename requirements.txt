@@ -1,1 +1,14 @@
-pip freeze > requirements.txt
+Packages	                        Purpose
+pandas	               -          Data manipulation
+numpy	                 -          Numerical operations
+scikit-learn	         -          ML utilities & models
+xgboost	               -          Main fraud detection model
+shap	                 -          Explainable AI
+matplotlib	           -          Visualizations
+seaborn	               -          Statistical plots
+jupyterlab	           -          Development environment
+imbalanced-learn	     -          SMOTE and imbalance handling
+networkx	             -          Fraud ring / graph analysis
+plotly	               -          Interactive charts
+streamlit	             -          Live dashboard
+joblib	               -          Save/load models
